@@ -1,4 +1,4 @@
-### Hi , welcome to DoraEmon's GitHub 👋  ![image](https://github.com/lichuwen/lichuwen/blob/master/dog.gif)
+### Hi , welcome to DoraEmon's GitHub 👋  ![image](https://github.com/lichuwen/lichuwen/dog.gif)
 
 <!--
 **lichuwen/lichuwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
